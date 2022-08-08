@@ -25,12 +25,11 @@ git clone https://github.com/affi1504/About_me_app.git
 1. Run the App using a Physical device or Emulator
 
 # Screenshots
-[<img src="https://user-images.githubusercontent.com/53293749/183401137-0cb339ed-a40a-46a0-b741-25c419048395.PNG" align="left"
-width="200" hspace="10" vspace="10">](https://user-images.githubusercontent.com/53293749/183401137-0cb339ed-a40a-46a0-b741-25c419048395.PNG)
+[<img src="screenshots/Screenshot_1.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_1.png)
 
-[<img src="https://user-images.githubusercontent.com/53293749/183401293-6c6f942c-a4a6-401d-a930-052d7c5c5eb7.PNG" align="center"
-width="200" hspace="10" vspace="10">](https://user-images.githubusercontent.com/53293749/183401293-6c6f942c-a4a6-401d-a930-052d7c5c5eb7.PNG)
+[<img src="screenshots/Screenshot_2.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_2.png)
 
-[<img src="https://user-images.githubusercontent.com/53293749/183401296-39bedd95-8547-439f-af5a-3e3e03751ac0.PNG" align="left"
-width="200" hspace="10" vspace="10">](https://user-images.githubusercontent.com/53293749/183401296-39bedd95-8547-439f-af5a-3e3e03751ac0.PNG)
-
+[<img src="screenshots/Screenshot_3.png" align="left"
+width="200" hspace="10" vspace="10">](screenshots/Screenshot_3.png)
