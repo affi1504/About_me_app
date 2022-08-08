@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aboobakkar Afrid</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">\n hello everyone, my name is Aboobakkar Afrid \n\n I am from India.
+        \n\n I am an engineering student and i love programming. \n\n I love to build apps and this is my attempt to learn something new.
+        \n\n ANDROID is AWESOME</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
