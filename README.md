@@ -20,7 +20,7 @@ git clone https://github.com/affi1504/About_me_app.git
 1. Extract the .zip file
 1. Open Android Studio
 1. select *Open*
-1. Select the **About_me_ap** directory.
+1. Select the **About_me_app** directory.
 1. Ensure the Project gets build and in case the IDE asks to sync *click* **Sync Now**.
 1. Run the App using a Physical device or Emulator
 
